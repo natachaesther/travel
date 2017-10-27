@@ -216,7 +216,7 @@ p.our {
      margin-left: auto;
      margin-right: auto;
      margin-top: 0em;
-     height: auto !important;
+     max-height: 500px !important;
  }
 
  .about-child-2 {
